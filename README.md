@@ -1,7 +1,7 @@
 # Triki Wand: silnik sterowania kursorem
 
 ## Cel
-Aplikacja webowa i silnik, który zamienia ruch kontrolera Triki (Żabka) w precyzyjne sterowanie kursorem. Kursor ma reagować na kierunek wskazywania kapslem (tryb różdżki), a nie na samo obracanie go wokół osi, jak w obecnej myszce. Wykorzystujemy wszystkie dostępne dane: żyroskop, akcelerometr i przycisk.
+Aplikacja webowa i silnik, który zamienia ruch kontrolera Triki (Żabka) w precyzyjne sterowanie kursorem. Kursor ma reagować na kierunek wskazywania kapslem (tryb różdżki), a nie na samo obracanie go wokół osi, jak w obecnej myszce"https://github.com/kub0vvik/TrikiAirMouse". Wykorzystujemy wszystkie dostępne dane: żyroskop, akcelerometr i przycisk.
 
 ## Założenia
 - **Dane:** czujnik LSM6DSL, ramki co ok. 104 Hz: gyro X/Y/Z, accel X/Y/Z, plus stan przycisku. Czas liczymy z odbioru ramek.
